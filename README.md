@@ -1,2 +1,2 @@
 # Super-Store-Dashboard-Using-Power-BI
-Data-Analytics Courses
+Persuing Data-Analytics Courses From IIT-Jammu in Association with Nasscom & Partner with ExcelR Academy
